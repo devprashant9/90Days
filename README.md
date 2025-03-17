@@ -4,7 +4,7 @@
 
 ---
 
-# Social Profiles👋
+## Social Profiles👋
 
 👉 **[LinkedIn](https://www.linkedin.com/in/devprashant99/)** 👈 <br/>
 👉 **[LeetCode](https://leetcode.com/u/dev_prashant/)** 👈
@@ -16,17 +16,27 @@
 
 ---
 
-## Foundation😁
+## Foundation Journey😁
 
 Today is `18-03-2025` and untill `31-03-2025` I will be covering all the basic concept of _Data Structures and Algorithms_ so that I can start my actual journey faster. Within these `14` days I will be touching evry DSA topics along with `Collections and Generics` and `Object Oriented Programming` so that my primary focus remains on DSA.
 
-> 👉 First of all my foundational coding skills are good and from past few days I have been exploring Data Structures and Algorithms. I know basics of **Recursion**, **Binary Search**, **Arrays**, **Strings**, **OOPS**, etc. In short, many of the concepts are known to me so my progress may seem faster.
+> 👉 First of all my foundational coding skills are good and from past few days I have been exploring Data Structures and Algorithms. I know basics of **Recursion**, **Binary Search**, **Arrays**, **Strings**, **OOPS**, **Time and Space Complexity**, etc. In short, many of the concepts are known to me so my progress may seem faster.
 
 ### Day 1 [18-03-2025]
 
+According to the `AlgoPrep` playlist, I directly started with `Arrays` and solved the questions in **Video 1** and they were very basic.
+
 ---
 
-## Journey😎
+**`Sources:`**
+
+- **`Playlist For My Foundation Journey:`** 👉 **[AlgoPrep](https://www.youtube.com/watch?v=XsIPFtmTWdM&list=PLmM0bg5v6gKFMhJ9vn2MwxVm2TUNU42VU)** 👈
+
+- **`Questions:`** 👉 **[CollegeWallah](https://www.youtube.com/watch?v=RJ733wzbNoA&list=PLxgZQoSe9cg00xyG5gzb5BMkOClkch7Gr)** 👈
+
+- **`Collections and Generics:`** 👉 **[Engineering Digest](https://www.youtube.com/watch?v=92k5uokmW9o&t=4248s)** 👈
+
+## Main Journey😎
 
 **`DO's:`**<br/><br/>
 ✅ Solve **Easy and Medium** questions on `LeetCode`.<br/>
