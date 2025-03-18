@@ -26,7 +26,13 @@ Today is `18-03-2025` and untill `31-03-2025` I will be covering all the basic c
 
 ### Day 1 [18-03-2025]
 
-According to the `AlgoPrep` playlist, I directly started with `Arrays` and solved the questions in **Video 1** and they were very basic. The **Video 2** also consisted of few problems that taught me handful of concepts.
+According to the `AlgoPrep` playlist, I directly started with `Arrays` and solved the questions in **Video 1** and they were very basic. The **Video 2** also consisted of few problems that taught me handful of concepts. [2Hrs]
+
+Next, it was time to `Practise` coding questions from `College Wallah`. The **First 2 Videos** were just about basic concepts of array and how to play around with it. Standard problems were covered from **Video 3** onwards.
+
+From **Video 4** onwards focus was given towards *Space and Time Complexity* along also how to handle *Edge Cases* which may lead to unexpected error. It also focused on `How to Proceed a Problem` i.e. *Brute Force -> Better -> Optimal -> Complexity*. Only 2 questions were covered *Rotate Array By K Places* and *Check Whether Number is Present in Array or Not For Q Queries*. The concept learnt in the first question was `Two Pointers Approach` and in second was `Hashing` or you can say **Lookup Array Elements in O(1) Time**.
+
+The **Video 5** was completely dedicate to `Two Pointers Approach` problem and also I got to learn a handful of new concepts. It also discussed about the different approach of proceeding the same problem.
 
 ---
 
