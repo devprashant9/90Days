@@ -15,10 +15,10 @@ public class UniqueElemnt {
             }
         }
         System.out.println("Array After Striking Elements Duplicate Elements: " + (Arrays.toString(array)));
-        
+
         for (int i = 0; i < array.length; i++) {
             if (array[i] != -1) {
-                System.out.println("Unique Occurring Element is: " +array[i]);
+                System.out.println("Unique Occurring Element is: " + array[i]);
                 break;
             }
         }
@@ -33,7 +33,7 @@ public class UniqueElemnt {
         for (int i = 0; i < array.length; i++) {
             array[i] = sc.nextInt();
         }
-        System.out.println("Original Array: " +Arrays.toString(array));
+        System.out.println("Original Array: " + Arrays.toString(array));
         findUniqueElement(array);
         sc.close();
     }

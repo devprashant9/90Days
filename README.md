@@ -24,7 +24,7 @@ Today is `18-03-2025` and untill `31-03-2025` I will be covering all the basic c
 
 ---
 
-### Day 1 [18-03-2025]
+### Day 1 [18-03-2025] | [10Hrs]
 
 According to the `AlgoPrep` playlist, I directly started with `Arrays` and solved the questions in **Video 1** and they were very basic. The **Video 2** also consisted of few problems that taught me handful of concepts. [2Hrs]
 
@@ -35,6 +35,10 @@ From **Video 4** onwards focus was given towards *Space and Time Complexity* alo
 The **Video 5** was completely dedicate to `Two Pointers Approach` problem and also I got to learn a handful of new concepts. It also discussed about the different approach of proceeding the same problem.
 
 The **Video 6** also consisted good level question related to `Prefix Sum` and it gave me the idea to build logic for the question by doing *Hit and Trail With Multiple Inputs* and then *Finding a Common Pattern*.
+
+After completing **1D Array**, I started with the next video on AlgoPrep i.e. with `2D Arrays` and started of with basics. Basically in 2D Array problems you play along indices and once you get familiar how the indices changes in different iteration then you can solve handful of problems.
+
+After that I directly went to practise questions from College Wallah. I solved plenty of problems like *Sum of Matrix*, *Product of Matrix*, *Transpose of Matrix*, etc. It gave me a boost to my confidence and felt highly motivated. After that I practised some logical questions like *Rotate By 90 Degress* and *Pascals Triangle Using Jagged Array*. Next topic included the problems related to **Spiral Format**. And finally ended today's session with a massive problem of `Prefix Sum in 2D Array` and was quite happy.😁
 
 ---
 

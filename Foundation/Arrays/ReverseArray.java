@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class ReverseArray {
-    
+
     public static void revereseArray(int[] array) {
         int[] revArray = new int[array.length];
         int index = 0;
@@ -12,7 +12,7 @@ public class ReverseArray {
             revArray[index++] = array[i];
         }
 
-        System.out.println("Reversed Array: " +(Arrays.toString(revArray)));
+        System.out.println("Reversed Array: " + (Arrays.toString(revArray)));
     }
 
     public static void revArrayOptimized(int[] array) {
@@ -21,10 +21,10 @@ public class ReverseArray {
         while (i <= length / 2) {
             int temp = array[i];
             array[i] = array[length - i - 1];
-            array[length - i -1] = temp;
+            array[length - i - 1] = temp;
             i++;
         }
-        System.out.println("Reversed Array Optimized: " +(Arrays.toString(array)));
+        System.out.println("Reversed Array Optimized: " + (Arrays.toString(array)));
     }
 
     public static void main(String[] args) {
@@ -36,7 +36,7 @@ public class ReverseArray {
         for (int i = 0; i < array.length; i++) {
             array[i] = sc.nextInt();
         }
-        System.out.println("Original Array: " +(Arrays.toString(array)));
+        System.out.println("Original Array: " + (Arrays.toString(array)));
         revereseArray(array);
         revArrayOptimized(array);
         sc.close();
