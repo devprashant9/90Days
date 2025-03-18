@@ -22,9 +22,11 @@ Today is `18-03-2025` and untill `31-03-2025` I will be covering all the basic c
 
 > 👉 First of all my foundational coding skills are good and from past few days I have been exploring Data Structures and Algorithms. I know basics of **Recursion**, **Binary Search**, **Arrays**, **Strings**, **OOPS**, **Time and Space Complexity**, etc. In short, many of the concepts are known to me so my progress may seem faster.
 
+---
+
 ### Day 1 [18-03-2025]
 
-According to the `AlgoPrep` playlist, I directly started with `Arrays` and solved the questions in **Video 1** and they were very basic.
+According to the `AlgoPrep` playlist, I directly started with `Arrays` and solved the questions in **Video 1** and they were very basic. The **Video 2** also consisted of few problems that taught me handful of concepts.
 
 ---
 
