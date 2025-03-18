@@ -34,6 +34,8 @@ From **Video 4** onwards focus was given towards *Space and Time Complexity* alo
 
 The **Video 5** was completely dedicate to `Two Pointers Approach` problem and also I got to learn a handful of new concepts. It also discussed about the different approach of proceeding the same problem.
 
+The **Video 6** also consisted good level question related to `Prefix Sum` and it gave me the idea to build logic for the question by doing *Hit and Trail With Multiple Inputs* and then *Finding a Common Pattern*.
+
 ---
 
 **`Sources:`**
