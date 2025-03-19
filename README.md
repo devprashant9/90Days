@@ -42,13 +42,15 @@ After that I directly went to practise questions from College Wallah. I solved p
 
 ---
 
-### Day 2 [19-03-2025] | [Hrs]
+### Day 2 [19-03-2025] | [3Hrs]
 
 Today I started with `Strings` and headed to AlgoPrep and then to College Wallah to cover questions. There was less to know about basics and more to explore about String problems.
 
 The main topics I learn't were, about `Characters` and _How Scanner Class Works While Taking Character Array as Input_. Also, why it causes a error if we don't write `Sc.nextLine()` before input loop. Apart from it the major topic was `String vs String Buffer vs String Builder` and which one to use when. This is because of the performance and space and DSA is all about optiming it. Also difference between **sc.next()** and **sc.nextLine()**.
 
 Completed the whole **Strings** concept in just 3 Hours but the main task of today was to solve ample amount of problems on String and applying all the learnt concept. So directly moved on to `LeetCode` for solving and learning new concepts as well.
+
+After going through quite a number of problems, I discovered that _Inbuilt Data Structures_ were necessary to learn before moving on to any other topic. So I started with **Collections in Java** from `Engineering Digest` and will complete it eventually. As of now I thinnk I only need _ArrayList_, _HashMap_ and _HashSet_ and the remaining we will cover eventually. Along with **Collections** I learn't about `Generics` in Java also.
 
 ---
 
