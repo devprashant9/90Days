@@ -30,15 +30,25 @@ According to the `AlgoPrep` playlist, I directly started with `Arrays` and solve
 
 Next, it was time to `Practise` coding questions from `College Wallah`. The **First 2 Videos** were just about basic concepts of array and how to play around with it. Standard problems were covered from **Video 3** onwards.
 
-From **Video 4** onwards focus was given towards *Space and Time Complexity* along also how to handle *Edge Cases* which may lead to unexpected error. It also focused on `How to Proceed a Problem` i.e. *Brute Force -> Better -> Optimal -> Complexity*. Only 2 questions were covered *Rotate Array By K Places* and *Check Whether Number is Present in Array or Not For Q Queries*. The concept learnt in the first question was `Two Pointers Approach` and in second was `Hashing` or you can say **Lookup Array Elements in O(1) Time**.
+From **Video 4** onwards focus was given towards _Space and Time Complexity_ along also how to handle _Edge Cases_ which may lead to unexpected error. It also focused on `How to Proceed a Problem` i.e. _Brute Force -> Better -> Optimal -> Complexity_. Only 2 questions were covered _Rotate Array By K Places_ and _Check Whether Number is Present in Array or Not For Q Queries_. The concept learnt in the first question was `Two Pointers Approach` and in second was `Hashing` or you can say **Lookup Array Elements in O(1) Time**.
 
 The **Video 5** was completely dedicate to `Two Pointers Approach` problem and also I got to learn a handful of new concepts. It also discussed about the different approach of proceeding the same problem.
 
-The **Video 6** also consisted good level question related to `Prefix Sum` and it gave me the idea to build logic for the question by doing *Hit and Trail With Multiple Inputs* and then *Finding a Common Pattern*.
+The **Video 6** also consisted good level question related to `Prefix Sum` and it gave me the idea to build logic for the question by doing _Hit and Trail With Multiple Inputs_ and then _Finding a Common Pattern_.
 
 After completing **1D Array**, I started with the next video on AlgoPrep i.e. with `2D Arrays` and started of with basics. Basically in 2D Array problems you play along indices and once you get familiar how the indices changes in different iteration then you can solve handful of problems.
 
-After that I directly went to practise questions from College Wallah. I solved plenty of problems like *Sum of Matrix*, *Product of Matrix*, *Transpose of Matrix*, etc. It gave me a boost to my confidence and felt highly motivated. After that I practised some logical questions like *Rotate By 90 Degress* and *Pascals Triangle Using Jagged Array*. Next topic included the problems related to **Spiral Format**. And finally ended today's session with a massive problem of `Prefix Sum in 2D Array` and was quite happy.😁
+After that I directly went to practise questions from College Wallah. I solved plenty of problems like _Sum of Matrix_, _Product of Matrix_, _Transpose of Matrix_, etc. It gave me a boost to my confidence and felt highly motivated. After that I practised some logical questions like _Rotate By 90 Degress_ and _Pascals Triangle Using Jagged Array_. Next topic included the problems related to **Spiral Format**. And finally ended today's session with a massive problem of `Prefix Sum in 2D Array` and was quite happy.😁
+
+---
+
+### Day 2 [19-03-2025] | [Hrs]
+
+Today I started with `Strings` and headed to AlgoPrep and then to College Wallah to cover questions. There was less to know about basics and more to explore about String problems.
+
+The main topics I learn't were, about `Characters` and _How Scanner Class Works While Taking Character Array as Input_. Also, why it causes a error if we don't write `Sc.nextLine()` before input loop. Apart from it the major topic was `String vs String Buffer vs String Builder` and which one to use when. This is because of the performance and space and DSA is all about optiming it. Also difference between **sc.next()** and **sc.nextLine()**.
+
+Completed the whole **Strings** concept in just 3 Hours but the main task of today was to solve ample amount of problems on String and applying all the learnt concept. So directly moved on to `LeetCode` for solving and learning new concepts as well.
 
 ---
 
