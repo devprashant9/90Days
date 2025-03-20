@@ -42,7 +42,7 @@ After that I directly went to practise questions from College Wallah. I solved p
 
 ---
 
-### Day 2 [19-03-2025] | [3Hrs]
+### Day 2 [19-03-2025] | [6Hrs]
 
 Today I started with `Strings` and headed to AlgoPrep and then to College Wallah to cover questions. There was less to know about basics and more to explore about String problems.
 
@@ -51,6 +51,18 @@ The main topics I learn't were, about `Characters` and _How Scanner Class Works 
 Completed the whole **Strings** concept in just 3 Hours but the main task of today was to solve ample amount of problems on String and applying all the learnt concept. So directly moved on to `LeetCode` for solving and learning new concepts as well.
 
 After going through quite a number of problems, I discovered that _Inbuilt Data Structures_ were necessary to learn before moving on to any other topic. So I started with **Collections in Java** from `Engineering Digest` and will complete it eventually. As of now I thinnk I only need _ArrayList_, _HashMap_ and _HashSet_ and the remaining we will cover eventually. Along with **Collections** I learn't about `Generics` in Java also.
+
+---
+
+### Day 3 [20-03-2025] | [4Hrs]
+
+Day 2 not went as per my expectation of reading so started of Day 3 with the same topics on **Collections** in java and got a good hold of it after understanding that how they are related with each other. If your learn a single implenetation then the remaining becomes easy because they _extends and implements_ classes and interfaces so majority of the functions become same. **Thread Syncgronization** data structures are not currently required from DSA perspective so skip them.
+
+However, I found it interesting so I will continue learning the **Collection and Map Interface** in more detail. Most importantly you should understand the `Hashing` technique and `collisions` and **How Map Works Internally** because it is a important concept.
+
+Then started with `Bit Manipulation` from AlgoPrep and I previously have covered this topic in detail so I will just get a quick recap and then move on to our next topic. However, the next topic was also covered i.e. `Hashing` but I didn't practise problems on it. I will do it after completeion of 3 more topics i.e. _recursion, searching, sorting_ and since I know them it won't take that much time to complete these topics.
+
+Next topic was `Recursion` and **College Wallah** channel has almost 9 videos on recursion which I will be completing and then we will move on to sorting. But before that obviously I will watch AlgoPrep video. Since I already knew the concepts it went quite easy. For most problems involving recursion `dry run` with _stack_ or _recursion tree_ is mostly important to get the exact flow of the code. Recursion is best understood when yoy dry-run a problem and also identifying base case becomes more logical and makes more sense. Now, it was time to cover problems of recursion from College Wallah channel.
 
 ---
 
