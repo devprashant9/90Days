@@ -54,7 +54,7 @@ After going through quite a number of problems, I discovered that _Inbuilt Data 
 
 ---
 
-### Day 3 [20-03-2025] | [4Hrs]
+### Day 3 [20-03-2025] | [6Hrs]
 
 Day 2 not went as per my expectation of reading so started of Day 3 with the same topics on **Collections** in java and got a good hold of it after understanding that how they are related with each other. If your learn a single implenetation then the remaining becomes easy because they _extends and implements_ classes and interfaces so majority of the functions become same. **Thread Syncgronization** data structures are not currently required from DSA perspective so skip them.
 
@@ -63,6 +63,21 @@ However, I found it interesting so I will continue learning the **Collection and
 Then started with `Bit Manipulation` from AlgoPrep and I previously have covered this topic in detail so I will just get a quick recap and then move on to our next topic. However, the next topic was also covered i.e. `Hashing` but I didn't practise problems on it. I will do it after completeion of 3 more topics i.e. _recursion, searching, sorting_ and since I know them it won't take that much time to complete these topics.
 
 Next topic was `Recursion` and **College Wallah** channel has almost 9 videos on recursion which I will be completing and then we will move on to sorting. But before that obviously I will watch AlgoPrep video. Since I already knew the concepts it went quite easy. For most problems involving recursion `dry run` with _stack_ or _recursion tree_ is mostly important to get the exact flow of the code. Recursion is best understood when yoy dry-run a problem and also identifying base case becomes more logical and makes more sense. Now, it was time to cover problems of recursion from College Wallah channel.
+
+---
+
+### Day 4 [21-03-2025] | [4Hrs]
+
+Two main topics to cover today `Sorting` and `Searching` and obviously understanding the `Divide and Conquer` algorithm. From this point of time I will try to code every problem using recursion as much as I can. This is because it will be used on high basis in every topics specially in _Trees, Graphs, Dynamic Programming_. So practising it daily will develop my mind to build intution about when to think a funtion in terms of **recursion**.
+
+Firstly started today with **Sorting** and we have multiple Sorting techniques available. But when to apply what is major question that arises here. It simply depends when to use what. You can use anything but let me give you a quick scenario.
+
+Assume that you are given a question that involves 3 steps in solving:
+- sort the array
+- rotate the array
+- find maximum
+
+In such cases we can use inbuilt `Arrays.sort(Comparator)` method. The worst case takes **O(N^2)** which is rare but in general we say it as **O(N log N)** and it uses **O(N)** space. The `Comparator` is an interface that helps to order two given values or else sort in ascending order in Java.
 
 ---
 
