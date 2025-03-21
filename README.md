@@ -66,18 +66,21 @@ Next topic was `Recursion` and **College Wallah** channel has almost 9 videos on
 
 ---
 
-### Day 4 [21-03-2025] | [4Hrs]
+### Day 4 [21-03-2025] | [5Hrs]
 
 Two main topics to cover today `Sorting` and `Searching` and obviously understanding the `Divide and Conquer` algorithm. From this point of time I will try to code every problem using recursion as much as I can. This is because it will be used on high basis in every topics specially in _Trees, Graphs, Dynamic Programming_. So practising it daily will develop my mind to build intution about when to think a funtion in terms of **recursion**.
 
 Firstly started today with **Sorting** and we have multiple Sorting techniques available. But when to apply what is major question that arises here. It simply depends when to use what. You can use anything but let me give you a quick scenario.
 
 Assume that you are given a question that involves 3 steps in solving:
+
 - sort the array
 - rotate the array
 - find maximum
 
 In such cases we can use inbuilt `Arrays.sort(Comparator)` method. The worst case takes **O(N^2)** which is rare but in general we say it as **O(N log N)** and it uses **O(N)** space. The `Comparator` is an interface that helps to order two given values or else sort in ascending order in Java.
+
+Next topic we have is `Binary Search` and most importantly where and when to apply. It is very important to know the application because the implementation is easy. One thing to explore is `Why Dividing in 2 Parts` and **Why Not 3 or 4**. In case of _Merge Sort and Quick Sort_, there also we **Divide Array in 2 Parts**. So just explore this topic by yourself. Also `Binary Search` is applied on `Ordered Array` or `Sorted Array`. Orderd Array can be an array that is not sorted but follows some rule in which they are arranged. Also while calculating mid clear the concept of integer overflow.
 
 ---
 
