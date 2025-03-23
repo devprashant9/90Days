@@ -83,6 +83,7 @@ In such cases we can use inbuilt `Arrays.sort(Comparator)` method. The worst cas
 Next topic we have is `Binary Search` and most importantly where and when to apply. It is very important to know the application because the implementation is easy. One thing to explore is `Why Dividing in 2 Parts` and **Why Not 3 or 4**. In case of _Merge Sort and Quick Sort_, there also we **Divide Array in 2 Parts**. So just explore this topic by yourself. Also `Binary Search` is applied on `Ordered Array` or `Sorted Array`. Orderd Array can be an array that is not sorted but follows some rule in which they are arranged. Also while calculating mid clear the concept of integer overflow.
 
 Next I practised and solved problems on following topics:
+
 - recursion
 - sorting
 - searching
@@ -94,6 +95,16 @@ Next I practised and solved problems on following topics:
 Started todays day very late and topic to cover today was `Linked List` but it requires `OOPS` knowledge. I already know about fundamentals of these topics but yes revsion is always better. So will be keeping it low.
 
 One thing I am lagging behind is `Problem Solving`. I am able to complete tutorials but unable to solve that many number of problems which is not a good thing becuase this in this way I will end up learning only fundamentals. Also, I need to invest 1 hour of daily to **Collections** to master most frequently used _Data Structures_ of Java. So these remians primary concerns of my main journey. Basically in these 14 days of March I want to take glimpse of all the topics before starting my `90 Days Journey` of DSA with development.
+
+---
+
+### Day 6 [23-03-2025] | [7Hrs]
+
+Started by learning **List Interface** which extends _Collection Interface_. Got know each and every aspect of it starting from _capacity, size, mutability_ to different ways of _creating and sorting a list_. It is important to know any 1 interafce in detail because in majority of the cases they are either extending or implementing **basic methods** which will remain common throught the interface. Thus, only methods we need to remember is the self methods of the interface. Ended the session by understanding **Comparator** in detail. Earlier also I touched this topic but today I understood it in detail with proper understanding.
+
+Next topic to begin with is `Trees`. Earlier when I started to understand Trees it became difficult because I didn't understood recursion but this time things aren't the same. Yes I can get stuck, but this time I will be able to understand by loking at code atleast and by dry running the code just the way I understood **LinkedList** with ease.
+
+While understanding binary tree always focus on dry run of the code. This is because to know the **root** location which simplifies building logic for a problem. When I was doing _Sum of All Nodes_, I was worried about the **data** part but afterwards the solution just struck me. Like the root pointer itself is travelling to all the nodes so why worry about the data part. Just add the **root.data** when it goes to above level after left and right call.
 
 ---
 
