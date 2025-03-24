@@ -108,11 +108,13 @@ While understanding binary tree always focus on dry run of the code. This is bec
 
 ---
 
-### Day 7 [24-03-2025] | [5Hrs]
+### Day 7 [24-03-2025] | [6Hrs]
 
 From today onwards a major chunk of time will be invested on problem solving also because I have covered up a lot of topic as of now so need to first practise them. I will be refering to `GeeksForGeeks` portal and `450 DSA Sheet` to practise problem. I may not be able to solve at first but the thing is I have now understood the major data structures so it will be easy to understand the code even while looking at solution. Apart from that, there are **algorithms** associated with problem which I need to take care and learn precisely.
 
 Practised quite a few problems and now going to start with `Stack` which is easy we all know the basic working mechanism. The CollegeWallah has almost 3 videos summing upto 10Hrs which I think more than enough to start with as well.
+
+Currently keeping rest of the topics on hold and going to start with `Dynamic Programming With 1D Array` and will also take a look at `Dynamic Programming With 2D Array` to get more familiar with DP. This is because on completing **DP** I will be able to solve problems based on _Two Pointers_ and _Sliding Window_. Also these two approaches mostly includes problem with _Arrays, Strings, Searching, Sorting and DP With 1D_. So a big chunk of topics will get covered. It is just my personal opinion and may not suit to everyone.
 
 ---
 
