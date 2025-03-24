@@ -108,6 +108,14 @@ While understanding binary tree always focus on dry run of the code. This is bec
 
 ---
 
+### Day 7 [24-03-2025] | [5Hrs]
+
+From today onwards a major chunk of time will be invested on problem solving also because I have covered up a lot of topic as of now so need to first practise them. I will be refering to `GeeksForGeeks` portal and `450 DSA Sheet` to practise problem. I may not be able to solve at first but the thing is I have now understood the major data structures so it will be easy to understand the code even while looking at solution. Apart from that, there are **algorithms** associated with problem which I need to take care and learn precisely.
+
+Practised quite a few problems and now going to start with `Stack` which is easy we all know the basic working mechanism. The CollegeWallah has almost 3 videos summing upto 10Hrs which I think more than enough to start with as well.
+
+---
+
 **`Sources:`**
 
 - **`Playlist For My Foundation Journey:`** 👉 **[AlgoPrep](https://www.youtube.com/watch?v=XsIPFtmTWdM&list=PLmM0bg5v6gKFMhJ9vn2MwxVm2TUNU42VU)** 👈
