@@ -118,6 +118,18 @@ Currently keeping rest of the topics on hold and going to start with `Dynamic Pr
 
 ---
 
+### Day 8 [25-03-2025] | [7Hrs]
+
+Started today with _Dynamic Programming_ and still looking at its fundamentals for both **Memoization** and **Tabulation** problems. Explored about the difference between _Greedy and DP_ and factors to consider to conclude whether DP can be applied or not.
+
+The next topic was `Sliding Window` which is easy itself but yet complicated. This is a technique based approach and not any algorithm is associated with it. Also, apart from considering this technique also consider the fact that you may use some kind of _Data Structures_ to proceed towards optimal problem.
+
+Solved a handful of problems on _Sliding Window_ and its different types along with variations. One thing I noted is that if you are unable to find solution apart from _Brute Force_ technique then try to use some kind of _Data Structure_ because it will decrease the time complexity. Also, if the question is solvable in O(1) Space then you will must be asked to do it from your interviewer.
+
+By end of the day almost got all the idea and basic fundamentals related to `Sliding Window` and was able to solve basic problems on different variations. No need to practise more and more to get comfortable with all possible variations.
+
+---
+
 **`Sources:`**
 
 - **`Playlist For My Foundation Journey:`** 👉 **[AlgoPrep](https://www.youtube.com/watch?v=XsIPFtmTWdM&list=PLmM0bg5v6gKFMhJ9vn2MwxVm2TUNU42VU)** 👈
