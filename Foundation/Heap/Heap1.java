@@ -4,7 +4,7 @@ import java.util.PriorityQueue;
 
 public class Heap1 {
     public static void main(String[] args) {
-        PriorityQueue<Integer> pq = new PriorityQueue<>((a, b) -> b - a);
+        PriorityQueue<Integer> pq = new PriorityQueue<>((a, b) -> b - a); //max heap
         pq.add(90);
         pq.add(10);
         pq.add(70);

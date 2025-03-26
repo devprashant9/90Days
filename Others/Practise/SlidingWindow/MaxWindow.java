@@ -7,24 +7,27 @@ public class MaxWindow {
 
     public static void maxWindow(int[] array, int k) {
         int i = 0, j = 0;
-        int mx = Integer.MIN_VALUE;
+        int mx = 0; // Length should start from 0 (not Integer.MIN_VALUE)
         int sum = 0;
-
+    
         while (j < array.length) {
             sum += array[j];
-            if (sum == k) {
-                int length = j - i + 1;
-                mx = Math.max(mx, length);
+    
+            while (sum > k) { // Shrinking condition
                 sum -= array[i];
                 i++;
-                j++;
-            } else {
-                j++;
             }
+    
+            if (sum == k) {
+                mx = Math.max(mx, j - i + 1);
+            }
+            
+            j++; // Move right pointer
         }
+        
         System.out.println(mx);
     }
-
+    
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Array Length: ");

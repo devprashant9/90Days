@@ -130,6 +130,18 @@ By end of the day almost got all the idea and basic fundamentals related to `Sli
 
 ---
 
+### Day 9 [26-03-2025] | [8Hrs]
+
+During initial hours I started to solved mid level questions from arrays and was feeling quite confident then figured out that I have mostly completed all the fundamentals. The remaining topics will be gradually familiar as I start solving more and more problems like `Heaps` and `Backtracking` topics. One thing currently I am missing is `Graph` about which I don't have any idea as of know except for that name.
+
+After practising problems I switched on to learning `Graphs` and will try to get the fundamentals associated with it because it is one of the most asked topics in interview so I must master its basics.
+
+It took me two hours to learn construction of graph and to undestand the storing and fetching mechanism because I coded graph for the first time today. I then explored and got myself into a subtle position and used `ArrayList<ArrayList<Edge>>` for the implementation. Also, graph is represented by various types also which itself is a big deal but after investing 3 hours on I found this way to be the best.
+
+Next I learned both the traversal for graph `BFS and DFS` among which **BFS Traversal** is implement using _Queue_ and **DFS Traversal** can be implemented using _Recursion or Stack_. Also we always need to take a _Visited Array_ to mark the vertices which has been visited once.
+
+---
+
 **`Sources:`**
 
 - **`Playlist For My Foundation Journey:`** 👉 **[AlgoPrep](https://www.youtube.com/watch?v=XsIPFtmTWdM&list=PLmM0bg5v6gKFMhJ9vn2MwxVm2TUNU42VU)** 👈
