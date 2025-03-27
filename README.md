@@ -142,6 +142,12 @@ Next I learned both the traversal for graph `BFS and DFS` among which **BFS Trav
 
 ---
 
+### Day 10 [27-03-2025] | [7Hrs]
+
+Solved Arrays Problem from Strivers Series and practise many problems on LeetCode and GFG.
+
+---
+
 **`Sources:`**
 
 - **`Playlist For My Foundation Journey:`** 👉 **[AlgoPrep](https://www.youtube.com/watch?v=XsIPFtmTWdM&list=PLmM0bg5v6gKFMhJ9vn2MwxVm2TUNU42VU)** 👈
