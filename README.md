@@ -148,6 +148,13 @@ Solved Arrays Problem from Strivers Series and practise many problems on LeetCod
 
 ---
 
+### Day 11 [28-03-2025] | [5Hrs]
+
+Solved `Subsequence and Subset Using Recursion` Problem from Strivers Series and practise many problems on LeetCode and GFG.
+
+---
+
+
 **`Sources:`**
 
 - **`Playlist For My Foundation Journey:`** 👉 **[AlgoPrep](https://www.youtube.com/watch?v=XsIPFtmTWdM&list=PLmM0bg5v6gKFMhJ9vn2MwxVm2TUNU42VU)** 👈
