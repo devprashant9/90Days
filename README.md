@@ -154,6 +154,19 @@ Solved `Subsequence and Subset Using Recursion` Problem from Strivers Series and
 
 ---
 
+### Day 12 [29-03-2025] | [3Hrs]
+
+The most awaited news came today i.e. my 4th semester examination schedule. I am having my exams on _29-04-25, 05-05-25, 06-05-25_ and after that within 10 days there will be project. If it would have only been exam then it won't reflect my progress but what I am most scared is about project. On top of that I don't have any internships so the major concern of mine was project.
+
+I decided that I will be making a **MERN Chat App** that will be deployed on **AWS** so I will get a basic idea about _DevOps_ because it is one of the subject of my semester. In order to achieve this I will be requiring a lot of hard work because I cannot leave DSA behind.
+
+So I will slow down my DSA progress rather I have picked topics on which I will only be doing questions in the month of `April` along with my `Major Project` and will start the remaining DSA topics after my examination.
+
+> **`Project Topics:`** Socket.io, Node JS, AWS Main Services, Basic Linux, DevOps <br/> **`Data Structures Topics:`** Arrays, Matrices, Strings, Searching, Sorting, Recursion, Stack, Queue, Heap, Divide and Conquer, Backtracking
+
+Today I will be covering `Heap or Priority Queue` in detail and will clear all of its fundamental concepts. It is quite an easy _Data Structure_ but usage might be tricky. Figuring out where to apply this data structure can be challenging for me as of now. However, intution will automatically come as I practise more and more.
+
+---
 
 **`Sources:`**
 
