@@ -168,6 +168,26 @@ Today I will be covering `Heap or Priority Queue` in detail and will clear all o
 
 ---
 
+### Day 13 [30-03-2025] | [5Hrs]
+
+Today is `Recursion and Backtracking Day` and nothing else. Practised standard questions like _N-Queen, Sudoku Solver, Grid Ways_ and the most frequent type of problems were related to **`Permutations and Combinations`** or you can say that **Subsequences and Subsets** which have lots of variations.
+
+First thing is that you need to get a strong hold on recursion to understand backtracking. Then you have some standard problems which are must do as they follow certain rules like _N Queen, Sudoku Solver, N Knights_. After that you have questions based on **Arrays and Strings** which are actually difficult because there can be lot of variations to a question like below.
+
+- generating all unique permutations where elements are unique
+- generating all unique permutations where elements are repeated
+- one of the type can be to maintain order
+
+After doing all the possible types of problems you will be able to know when to use _Visited Array to Keep Track, Sort The Given Input, Generate All SubSets_. And this applies to problems involving **Combinations** also.
+
+Mainly the three primary topics in Backtracking are _Grid Problems, Arrays, Strings_ and in case of arrays and strings it is all about _Permutation and Combination_ and the grid problems follow standard approach.
+
+However, backtracking is used in **Trees and Graphs** also but the above topics can be consider as foundational to get crystal clear concept of backtracking. Even backtracking uses `Depth First Search` path to explore all possible paths.
+
+Now, I can say that Backtracking is a Easy Topic because I have explored all possible types of generic questions. The total count of questions was between 30 - 40 which will help me to solve any kind of backtracking problem.
+
+---
+
 **`Sources:`**
 
 - **`Playlist For My Foundation Journey:`** 👉 **[AlgoPrep](https://www.youtube.com/watch?v=XsIPFtmTWdM&list=PLmM0bg5v6gKFMhJ9vn2MwxVm2TUNU42VU)** 👈
