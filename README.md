@@ -188,6 +188,37 @@ Now, I can say that Backtracking is a Easy Topic because I have explored all pos
 
 ---
 
+### Day 14 [31-03-2025] | [6Hrs]
+
+#### Permutation Problems Based on Strings
+
+- Generate All Unique Permutations Where Each Character is Distinct **[Base Problem]**
+- Generate All Unique Permutations Where Characters May Repeat **[Use a HashSet to Prevent Duplicate]**
+- Print Permutation in Lexographic Order **[Sort Given String and Returned Result]**
+- Find Next Permutation **[A Kind of Algorithm Approach]**
+- Find K-th Permutation **[Mathematical Based Approach Using Factorial]**
+- Permutation of a String With Fixed Character at Given Index **[Append The Character at Given Index After Finding All Permutation]**
+- Permutation With at Least 1 Vowel at Beginning **[Accept Only Those Permutation That Passes Vowel Validity]**
+- Check Whether a String is Permutation of Other **[Frequency Array to Increase Using First String and Decrease Using Second]**
+- Check Whether a String Contains Given Permutation **[Sliding Window Technique]**
+- Find All Palindrome Permutations **[Same as Generating Unique Permutation But Think About Generating Plaindromes is Bit Tricky]**
+
+#### Combination Problems Based on Strings
+
+- Generate All Unique Subsequence or Power Set **[Base Problem]**
+- Generate All K Length Subsequence No Repetition Allowed **[Slight Chnage in Base case But Same as Base Problem]**
+- Generate All K Length Subsequence Repetition Allowed [Slight Chnage in Base case But Same as Base Problem]**
+- LetterCase Combination **[Same as Base Problem, Once With UpperCase, Once With LowerCase, If Digit Explore Other Option]**
+- Word Break Problem **[Check Each Substring One By One]**
+
+#### Permutation Problems Based on Arrays
+
+#### Combination Problems Based on Arrays
+
+### Standard Backtracking Problems
+
+---
+
 **`Sources:`**
 
 - **`Playlist For My Foundation Journey:`** 👉 **[AlgoPrep](https://www.youtube.com/watch?v=XsIPFtmTWdM&list=PLmM0bg5v6gKFMhJ9vn2MwxVm2TUNU42VU)** 👈
