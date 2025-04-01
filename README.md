@@ -207,7 +207,7 @@ Now, I can say that Backtracking is a Easy Topic because I have explored all pos
 
 - Generate All Unique Subsequence or Power Set **[Base Problem]**
 - Generate All K Length Subsequence No Repetition Allowed **[Slight Chnage in Base case But Same as Base Problem]**
-- Generate All K Length Subsequence Repetition Allowed [Slight Chnage in Base case But Same as Base Problem]**
+- Generate All K Length Subsequence Repetition Allowed [Slight Chnage in Base case But Same as Base Problem]\*\*
 - LetterCase Combination **[Same as Base Problem, Once With UpperCase, Once With LowerCase, If Digit Explore Other Option]**
 - Word Break Problem **[Check Each Substring One By One]**
 
@@ -249,5 +249,19 @@ Now, I can say that Backtracking is a Easy Topic because I have explored all pos
 ✔️ Figure Out `Brute Force` Approach.<br/>
 ✔️ Optimize it For a `Better` Approach if Any Available.<br/>
 ✔️ Solve Using `Optimal` Approach.<br/>
+
+---
+
+### Backtracking and Greedy | [01-04-25] To [07-04-25]
+
+This is my daily to do for the next 7 days:
+
+✅ 4 Hours Backtracking in Morning
+✅ 1 Hour GFG 160 Challenge (2 Questions)
+✅ 4 Hours Greedy Approach in Evening
+
+`Backtracking` is very much confusing me but I will try my best to complete it in within 7 days with all types of questions. Along with that I will be doing `Greedy Approach` which according to me is easy if the problem is well understood.
+
+Apart from these I have enrolled in `GFG 160` challenge which which will help me to explore different types of interview curated questions and it will help me to gain momentum in my end goal.
 
 ---
