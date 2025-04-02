@@ -264,4 +264,9 @@ This is my daily to do for the next 7 days:
 
 Apart from these I have enrolled in `GFG 160` challenge which which will help me to explore different types of interview curated questions and it will help me to gain momentum in my end goal.
 
+### Day 2 ToDo's
+
+GFG 160 ✅
+Couldn't do much today
+
 ---
