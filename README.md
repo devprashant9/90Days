@@ -269,4 +269,10 @@ Apart from these I have enrolled in `GFG 160` challenge which which will help me
 GFG 160 ✅
 Couldn't do much today
 
+### Day 3 ToDo's
+
+Problems on Greedy Approach ✅
+GFG 160 ✅
+
+Couldn't do much today
 ---
