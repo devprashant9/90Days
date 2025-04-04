@@ -1,0 +1,16 @@
+ static void rotateArr(int arr[], int d) {
+        // add your code here
+        int total = d % arr.length;
+        reverse(arr, 0, total - 1);
+        reverse(arr, total, arr.length - 1);
+        reverse(arr, 0, arr.length - 1);
+    }
+    public static void reverse(int[] arr, int start, int end) {
+        while(start < end) {
+            int temp = arr[start];
+            arr[start] = arr[end];
+            arr[end] = temp;
+            start++;
+            end--;
+        }
+    }
